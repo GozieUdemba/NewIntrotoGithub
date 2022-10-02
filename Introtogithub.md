@@ -10,39 +10,111 @@
 
 4. Git vs GitHub
 
-5. Clone : How to do a pull request
+5. Clone : How to do cloning
 
-6. Commit : How to do a commit
+6. Pull request : How to do pull request
 
-7. GitHub Desktop vs GitHub CLI
+7. Commit : How to do a commit
 
-8. Conclusion
+8. GitHub Desktop vs GitHub CLI
+
+9. Conclusion
 
 ### **Introduction**
 
-Github has become an indispensable tool for software developers. The purpose of this article is to provide some descriptions of Github and how to use it.
+Github has become an indispensable tool for software developers. The purpose of this article is to provide some descriptions of Github and how to use it. Some graphic illustrations of GitHub actions such as cloning, commit and pull request will be also presented.
 
 ### **What is GitHub**
 
-Github is a cloud platform with version control capabilities, for hosting code projects. It allows individuals to collaborate on the same project remotely.
+Github is a cloud platform with version control capabilities, for hosting code projects. It allows individuals to collaborate on the same project remotely. GitHub serves as a social network for people to collaborate on the most complex technological projects in the world.
 
 ### **Why GitHub**
 
-Github has superior version control attributes. Software developers can branch a project, work on it independently online or offline and merge the project. Changes to a project can also be tracked.
+Github has superior version control attributes. Software developers can branch a project, work on it independently online or offline and merge the project. Changes to a project can also be tracked. GitHub has a user friendly interface and makes it easy for even new coders and more experienced ones to use Git for version control and collaboration.
 
 ### **Git vs GitHub**
 
-Git is a version control tool that allows the users to modify their work and to track the modifications. GutHub is a cloud platform that allows hosting and management of Git repositories.
+Git is a version control tool that allows the users to modify their work and to track the modifications. GutHub is a cloud platform that allows hosting and management of Git repositories. Both Git and GitHub provide software programmers with version control capabilities which allow the programmers to work on a project at the same time without botching the entire project. GitHub takes it a step further by also providing storage capacity for the projects being worked on. It is also a platform for developers to showcase their work. 
+
+### **Clone : How to clone a repository**
+
+1. On GitHub.com, navigate to the main page of the repository.
+2. Above the list of files, click  Code.
+![Image](https://docs.github.com/assets/cb-20363/images/help/repository/code-button.png)
+https://docs.github.com/assets/cb-20363/images/help/repository/code-button.png
+
+3. Copy the URL for the repository.
+
+     * To clone the repository using HTTPS, under "HTTPS", click.
+     * To clone the repository using an SSH key, including a certificate issued by your organization's  SSH certificate authority, click SSH, then click.
+     * To clone a repository using GitHub CLI, click GitHub CLI, then click .
+![Image](https://docs.github.com/assets/cb-33207/images/help/repository/https-url-clone-cli.png)
+https://docs.github.com/assets/cb-33207/images/help/repository/https-url-clone-cli.png
+
+4. Open Git Bash.
+5. Change the current working directory to the location where you want the cloned directory.
+6. Type git clone, and then paste the URL you copied earlier.
+7. Press Enter to create your local clone.
+
+Reference: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
 
-### **Clone : How to do a pull request**
+### **Pull request : How to create a pull request**
 
-![Image](https://cdn.crunchify.com/wp-content/uploads/2017/09/Github-WorkFlow-Tips-Crunchify-Tips-1536x483.png)
+1. On GitHub.com, navigate to the main page of the repository.
+2. In the "Branch" menu, choose the branch that contains your commits.
+![Image](https://docs.github.com/assets/cb-29841/images/help/pull_requests/branch-dropdown.png)
+https://docs.github.com/assets/cb-29841/images/help/pull_requests/branch-dropdown.png
 
+3. Above the list of files, click  Pull request.
+![Image](https://docs.github.com/assets/cb-26570/images/help/pull_requests/pull-request-start-review-button.png)
+https://docs.github.com/assets/cb-26570/images/help/pull_requests/pull-request-start-review-button.png
+
+4. Use the base branch dropdown menu to select the branch you'd like to merge your changes into, then use the compare branch drop-down menu to choose the topic branch you made your changes in.
+![Image](https://docs.github.com/assets/cb-34915/images/help/pull_requests/choose-base-and-compare-branches.png)
+https://docs.github.com/assets/cb-34915/images/help/pull_requests/choose-base-and-compare-branches.png
+
+5. Type a title and description for your pull request.
+![Image](https://docs.github.com/assets/cb-28826/images/help/pull_requests/pullrequest-description.png)
+https://docs.github.com/assets/cb-28826/images/help/pull_requests/pullrequest-description.png
+
+6. To create a pull request that is ready for review, click Create Pull Request. To create a draft pull request, use the drop-down and select Create Draft Pull Request, then click Draft Pull Request
+
+![Image](https://docs.github.com/assets/cb-26223/images/help/pull_requests/pullrequest-send.png)
+
+https://docs.github.com/assets/cb-26223/images/help/pull_requests/pullrequest-send.png
+
+Reference:https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
 
 ### **Commit : How to do a commit**
 
-![Image](https://www.cspsprotocol.com/wp-content/uploads/2020/05/GIT-Commit-Flow.png)
+1. On GitHub.com, navigate to the main page of the repository.
+2. Above the list of files, using the Add file drop-down, click Upload files.
+
+![Image](https://docs.github.com/assets/cb-26342/images/help/repository/upload-files-button.png)
+https://docs.github.com/assets/cb-26342/images/help/repository/upload-files-button.png
+
+3. Drag and drop the file or folder you'd like to upload to your repository onto the file tree.
+   
+![Image](https://docs.github.com/assets/cb-10159/images/help/repository/upload-files-drag-and-drop.png)
+https://docs.github.com/assets/cb-10159/images/help/repository/upload-files-drag-and-drop.png
+
+4. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one author in the commit message.
+
+![Image](https://docs.github.com/assets/cb-9378/images/help/repository/write-commit-message-quick-pull.png)
+https://docs.github.com/assets/cb-9378/images/help/repository/write-commit-message-quick-pull.png
+
+5. Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is the default branch, you should choose to create a new branch for your commit and then create a pull request.
+   
+![Image](https://docs.github.com/assets/cb-32137/images/help/repository/choose-commit-branch.png)
+https://docs.github.com/assets/cb-32137/images/help/repository/choose-commit-branch.png
+
+6. Click Commit changes.
+
+![Image](https://docs.github.com/assets/cb-19765/images/help/repository/commit-changes-button.png)
+https://docs.github.com/assets/cb-19765/images/help/repository/commit-changes-button.png
+
+Reference:https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository#adding-a-file-to-a-repository-using-the-command-line
 
 
 ### **GitHub Desktop vs GitHub CLI**
@@ -50,11 +122,15 @@ Git is a version control tool that allows the users to modify their work and to 
 
   * #### **Using GitHub Desktop**
   
+  * With GitHub Desktop, you can interact with GitHub using a GUI instead of the command line or a web browser. You can use GitHub Desktop to complete most Git commands from your desktop, such as pushing to, pulling from, and cloning remote repositories, attributing commits, and creating pull requests, with visual confirmation of changes. Reference: https://docs.github.com/en/desktop
+  
    1. Click "commit to master"
    2. Click "Push origin" button twice
    3. Done
    
   * #### **Using Git Command line**
+  
+  * GitHub CLI is a command-line tool that brings pull requests, issues, GitHub Actions, and other GitHub features to your terminal, so you can do all your work in one place. Reference: https://docs.github.com/en/get-started/using-github/github-cli
   
    1. git add filename
    2. git commit
