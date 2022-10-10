@@ -22,7 +22,7 @@
 
 ### **Introduction**
 
-Github has become an indispensable tool for software developers. The purpose of this article is to provide some descriptions of Github and how to use it. Some graphic illustrations of GitHub actions such as cloning, commit and pull request will be also presented.
+Github has become an indispensable tool for software developers. The purpose of this article is to provide some descriptions of Github and how to use it. Some graphic illustrations of GitHub actions such as cloning, commit and pull request will also be presented.
 
 ### **What is GitHub**
 
