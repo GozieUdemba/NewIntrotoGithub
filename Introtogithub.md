@@ -41,7 +41,7 @@ Git is a version control tool that allows the users to modify their work and to 
 1. On GitHub.com, navigate to the main page of the repository.
 2. Above the list of files, click  Code.
 ![Image](https://docs.github.com/assets/cb-20363/images/help/repository/code-button.png)
-https://docs.github.com/assets/cb-20363/images/help/repository/code-button.png
+Reference: https://docs.github.com/assets/cb-20363/images/help/repository/code-button.png
 
 3. Copy the URL for the repository.
 
@@ -49,7 +49,7 @@ https://docs.github.com/assets/cb-20363/images/help/repository/code-button.png
      * To clone the repository using an SSH key, including a certificate issued by your organization's  SSH certificate authority, click SSH, then click.
      * To clone a repository using GitHub CLI, click GitHub CLI, then click .
 ![Image](https://docs.github.com/assets/cb-33207/images/help/repository/https-url-clone-cli.png)
-https://docs.github.com/assets/cb-33207/images/help/repository/https-url-clone-cli.png
+Reference: https://docs.github.com/assets/cb-33207/images/help/repository/https-url-clone-cli.png
 
 4. Open Git Bash.
 5. Change the current working directory to the location where you want the cloned directory.
@@ -65,27 +65,27 @@ Reference: https://docs.github.com/en/repositories/creating-and-managing-reposit
 2. In the "Branch" menu, choose the branch that contains your commits.
 ![Image](https://docs.github.com/assets/cb-29841/images/help/pull_requests/branch-dropdown.png)
 
-https://docs.github.com/assets/cb-29841/images/help/pull_requests/branch-dropdown.png
+Reference: https://docs.github.com/assets/cb-29841/images/help/pull_requests/branch-dropdown.png
 
 3. Above the list of files, click  Pull request.
 ![Image](https://docs.github.com/assets/cb-26570/images/help/pull_requests/pull-request-start-review-button.png)
-https://docs.github.com/assets/cb-26570/images/help/pull_requests/pull-request-start-review-button.png
+Reference: https://docs.github.com/assets/cb-26570/images/help/pull_requests/pull-request-start-review-button.png
 
 4. Use the base branch dropdown menu to select the branch you'd like to merge your changes into, then use the compare branch drop-down menu to choose the topic branch you made your changes in.
 ![Image](https://docs.github.com/assets/cb-34915/images/help/pull_requests/choose-base-and-compare-branches.png)
-https://docs.github.com/assets/cb-34915/images/help/pull_requests/choose-base-and-compare-branches.png
+Reference: https://docs.github.com/assets/cb-34915/images/help/pull_requests/choose-base-and-compare-branches.png
 
 5. Type a title and description for your pull request.
 ![Image](https://docs.github.com/assets/cb-28826/images/help/pull_requests/pullrequest-description.png)
-https://docs.github.com/assets/cb-28826/images/help/pull_requests/pullrequest-description.png
+Reference: https://docs.github.com/assets/cb-28826/images/help/pull_requests/pullrequest-description.png
 
 6. To create a pull request that is ready for review, click Create Pull Request. To create a draft pull request, use the drop-down and select Create Draft Pull Request, then click Draft Pull Request
 
 ![Image](https://docs.github.com/assets/cb-26223/images/help/pull_requests/pullrequest-send.png)
 
-https://docs.github.com/assets/cb-26223/images/help/pull_requests/pullrequest-send.png
+Reference: https://docs.github.com/assets/cb-26223/images/help/pull_requests/pullrequest-send.png
 
-Reference:https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
+
 
 ### **Commit : How to do a commit**
 
@@ -93,29 +93,28 @@ Reference:https://docs.github.com/en/pull-requests/collaborating-with-pull-reque
 2. Above the list of files, using the Add file drop-down, click Upload files.
 
 ![Image](https://docs.github.com/assets/cb-26342/images/help/repository/upload-files-button.png)
-https://docs.github.com/assets/cb-26342/images/help/repository/upload-files-button.png
+Reference: https://docs.github.com/assets/cb-26342/images/help/repository/upload-files-button.png
 
 3. Drag and drop the file or folder you'd like to upload to your repository onto the file tree.
    
 ![Image](https://docs.github.com/assets/cb-10159/images/help/repository/upload-files-drag-and-drop.png)
-https://docs.github.com/assets/cb-10159/images/help/repository/upload-files-drag-and-drop.png
+Reference: https://docs.github.com/assets/cb-10159/images/help/repository/upload-files-drag-and-drop.png
 
 4. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one author in the commit message.
 
 ![Image](https://docs.github.com/assets/cb-9378/images/help/repository/write-commit-message-quick-pull.png)
-https://docs.github.com/assets/cb-9378/images/help/repository/write-commit-message-quick-pull.png
+Reference: https://docs.github.com/assets/cb-9378/images/help/repository/write-commit-message-quick-pull.png
 
 5. Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is the default branch, you should choose to create a new branch for your commit and then create a pull request.
    
 ![Image](https://docs.github.com/assets/cb-32137/images/help/repository/choose-commit-branch.png)
-https://docs.github.com/assets/cb-32137/images/help/repository/choose-commit-branch.png
+Reference: https://docs.github.com/assets/cb-32137/images/help/repository/choose-commit-branch.png
 
 6. Click Commit changes.
 
 ![Image](https://docs.github.com/assets/cb-19765/images/help/repository/commit-changes-button.png)
-https://docs.github.com/assets/cb-19765/images/help/repository/commit-changes-button.png
 
-Reference:https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository#adding-a-file-to-a-repository-using-the-command-line
+Reference: https://docs.github.com/assets/cb-19765/images/help/repository/commit-changes-button.png
 
 
 ### **GitHub Desktop vs GitHub CLI**
