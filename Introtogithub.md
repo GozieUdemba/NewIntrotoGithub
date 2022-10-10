@@ -42,7 +42,7 @@ Git is a version control tool that allows the users to modify their work and to 
 2. Above the list of files, click  Code.
 ![Image](https://docs.github.com/assets/cb-20363/images/help/repository/code-button.png)
 
-Reference: https://docs.github.com/assets/cb-20363/images/help/repository/code-button.png
+ Reference: https://docs.github.com/assets/cb-20363/images/help/repository/code-button.png
 
 3. Copy the URL for the repository.
 
@@ -51,14 +51,14 @@ Reference: https://docs.github.com/assets/cb-20363/images/help/repository/code-b
      * To clone a repository using GitHub CLI, click GitHub CLI, then click .
 ![Image](https://docs.github.com/assets/cb-33207/images/help/repository/https-url-clone-cli.png)
 
-Reference: https://docs.github.com/assets/cb-33207/images/help/repository/https-url-clone-cli.png
+ Reference: https://docs.github.com/assets/cb-33207/images/help/repository/https-url-clone-cli.png
 
 4. Open Git Bash.
 5. Change the current working directory to the location where you want the cloned directory.
 6. Type git clone, and then paste the URL you copied earlier.
 7. Press Enter to create your local clone.
 
-Reference: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+ Reference: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
 
 ### **Pull request : How to create a pull request**
@@ -67,7 +67,7 @@ Reference: https://docs.github.com/en/repositories/creating-and-managing-reposit
 2. In the "Branch" menu, choose the branch that contains your commits.
 ![Image](https://docs.github.com/assets/cb-29841/images/help/pull_requests/branch-dropdown.png)
 
-Reference: https://docs.github.com/assets/cb-29841/images/help/pull_requests/branch-dropdown.png
+ Reference: https://docs.github.com/assets/cb-29841/images/help/pull_requests/branch-dropdown.png
 
 3. Above the list of files, click  Pull request.
 ![Image](https://docs.github.com/assets/cb-26570/images/help/pull_requests/pull-request-start-review-button.png)
