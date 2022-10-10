@@ -41,6 +41,7 @@ Git is a version control tool that allows the users to modify their work and to 
 1. On GitHub.com, navigate to the main page of the repository.
 2. Above the list of files, click  Code.
 ![Image](https://docs.github.com/assets/cb-20363/images/help/repository/code-button.png)
+
 Reference: https://docs.github.com/assets/cb-20363/images/help/repository/code-button.png
 
 3. Copy the URL for the repository.
