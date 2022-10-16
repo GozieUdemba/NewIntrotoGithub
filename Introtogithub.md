@@ -22,21 +22,27 @@
 
 ### **Introduction**
 
-Github has become an indispensable tool for software developers. The purpose of this article is to provide some descriptions of Github and how to use it. Some definitions and graphic illustrations of GitHub actions such as cloning, commit and pull request will also be presented.
+GitHub has become an indispensable tool for software developers. The purpose of this article is to provide some descriptions of GitHub and how to use it. Some definitions and graphic illustrations of GitHub actions such as cloning, commit and pull request will also be presented.
 
 ### **What is GitHub**
 
-Github is a cloud platform with version control capabilities, for hosting code projects. It allows individuals to collaborate on the same project remotely. GitHub serves as a social network for people to collaborate on the most complex technological projects in the world.
+GitHub is a cloud platform with version control capabilities, for hosting code projects. It allows individuals to collaborate on the same project remotely. GitHub serves as a social network for people to collaborate on the most complex technological projects in the world.
 
 ### **Why GitHub**
 
-Github has superior version control attributes. Software developers can branch a project, work on it independently online or offline and merge the project. Changes to a project can also be tracked. GitHub has a user friendly interface and makes it easy for even new coders and more experienced ones to use [Git](https://git-scm.com/) for version control and collaboration.
+GitHub has superior version control attributes. Software developers can branch a project, work on it independently online or offline and merge the project. Changes to a project can also be tracked. GitHub has a user friendly interface and makes it easy for even new coders and more experienced ones to use [Git](https://git-scm.com/) for version control and collaboration.
 
 ### **Git vs GitHub**
 
-Git is a version control tool that allows the users to modify their work and to track the modifications. GitHub is a cloud platform that allows hosting and management of Git repositories. Both Git and GitHub provide software programmers with version control capabilities which allow the programmers to work on a project at the same time without botching the entire project. GitHub takes it a step further by also providing storage capacity for the projects being worked on. It is also a platform for developers to showcase their work. 
+Git is a version control tool that allows the users to modify their work and to track the modifications. GitHub is a cloud platform that allows hosting and management of Git repositories. Both Git and GitHub provide software programmers with version control capabilities which allow the programmers to work on a project at the same time without botching the entire project. GitHub takes it a step further by also providing storage capacity for the projects being worked on. It is also a platform for developers to showcase their work.
 
-### **Clone : How to clone a repository**
+# **GitHub Actions**
+
+## **Clone**
+
+A clone is a copy. In GitHub a clone is a copy of a repository that is made from GitHub to the local system.
+
+### **How to clone a repository**
 
 1. On GitHub.com, navigate to the main page of the repository.
 2. Above the list of files, click  Code.
@@ -61,7 +67,11 @@ Git is a version control tool that allows the users to modify their work and to 
  Reference: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
 
-### **Pull request : How to create a pull request**
+## **Pull request**
+
+A pull request is an occassion where a software developer seeks to add the changes made in a code project, from the local system of the developer to the main repository in GitHub. 
+
+### **How to create a pull request**
 
 1. On GitHub.com, navigate to the main page of the repository.
 2. In the "Branch" menu, choose the branch that contains your commits.
@@ -92,7 +102,11 @@ Reference: https://docs.github.com/assets/cb-26223/images/help/pull_requests/pul
 
 
 
-### **Commit : How to do a commit**
+## **Commit**
+
+A commit is a change that is effected to the contents of the file/project.
+
+### **How to do a commit**
 
 1. On GitHub.com, navigate to the main page of the repository.
 2. Above the list of files, using the Add file drop-down, click Upload files.
