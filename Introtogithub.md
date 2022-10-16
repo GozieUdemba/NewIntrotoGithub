@@ -22,7 +22,7 @@
 
 ### **Introduction**
 
-Github has become an indispensable tool for software developers. The purpose of this article is to provide some descriptions of Github and how to use it. Some graphic illustrations of GitHub actions such as cloning, commit and pull request will also be presented.
+Github has become an indispensable tool for software developers. The purpose of this article is to provide some descriptions of Github and how to use it. Some definitions and graphic illustrations of GitHub actions such as cloning, commit and pull request will also be presented.
 
 ### **What is GitHub**
 
@@ -30,11 +30,11 @@ Github is a cloud platform with version control capabilities, for hosting code p
 
 ### **Why GitHub**
 
-Github has superior version control attributes. Software developers can branch a project, work on it independently online or offline and merge the project. Changes to a project can also be tracked. GitHub has a user friendly interface and makes it easy for even new coders and more experienced ones to use Git for version control and collaboration.
+Github has superior version control attributes. Software developers can branch a project, work on it independently online or offline and merge the project. Changes to a project can also be tracked. GitHub has a user friendly interface and makes it easy for even new coders and more experienced ones to use [Git](https://git-scm.com/) for version control and collaboration.
 
 ### **Git vs GitHub**
 
-Git is a version control tool that allows the users to modify their work and to track the modifications. GutHub is a cloud platform that allows hosting and management of Git repositories. Both Git and GitHub provide software programmers with version control capabilities which allow the programmers to work on a project at the same time without botching the entire project. GitHub takes it a step further by also providing storage capacity for the projects being worked on. It is also a platform for developers to showcase their work. 
+Git is a version control tool that allows the users to modify their work and to track the modifications. GitHub is a cloud platform that allows hosting and management of Git repositories. Both Git and GitHub provide software programmers with version control capabilities which allow the programmers to work on a project at the same time without botching the entire project. GitHub takes it a step further by also providing storage capacity for the projects being worked on. It is also a platform for developers to showcase their work. 
 
 ### **Clone : How to clone a repository**
 
