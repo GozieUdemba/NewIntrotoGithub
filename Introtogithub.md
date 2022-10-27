@@ -61,7 +61,7 @@ A clone is a copy. In GitHub a clone is a copy of a repository that is made from
 
  Reference: https://docs.github.com/assets/cb-33207/images/help/repository/https-url-clone-cli.png
 
-4. Open Git Bash.
+4. Open [Git Bash](https://www.atlassian.com/git/tutorials/git-bash).
 5. Change the current working directory to the location where you want the cloned directory.
 6. Type git clone, and then paste the URL you copied earlier.
 7. Press Enter to create your local clone.
