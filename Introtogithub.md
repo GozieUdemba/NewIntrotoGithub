@@ -52,9 +52,9 @@ A clone is a copy. In GitHub a clone is a copy of a repository that is made from
 
 3. Copy the URL for the repository.
 
-     * To clone the repository using HTTPS, under "HTTPS", click.
-     * To clone the repository using an SSH key, including a certificate issued by your organization's  SSH certificate authority, click SSH, then click.
-     * To clone a repository using GitHub CLI, click GitHub CLI, then click .
+     a) To clone the repository using HTTPS, under "HTTPS", click.
+     b) To clone the repository using an SSH key, including a certificate issued by your organization's  SSH certificate authority, click SSH, then click.
+     c) To clone a repository using GitHub CLI, click GitHub CLI, then click .
 ![Image](https://docs.github.com/assets/cb-33207/images/help/repository/https-url-clone-cli.png)
 
  Reference: https://docs.github.com/assets/cb-33207/images/help/repository/https-url-clone-cli.png
