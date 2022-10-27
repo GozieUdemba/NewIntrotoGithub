@@ -46,7 +46,7 @@ A clone is a copy. In GitHub a clone is a copy of a repository that is made from
 
 1. On GitHub.com, navigate to the main page of the repository.
 2. Above the list of files, click  Code.
-![Image](https://docs.github.com/assets/cb-20363/images/help/repository/code-button.png)
+![Image](https://github.com/GozieUdemba/NewIntrotoGithub/blob/main/annotely_image1.png)
 
  Reference: https://docs.github.com/assets/cb-20363/images/help/repository/code-button.png
 
