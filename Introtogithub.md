@@ -99,7 +99,7 @@ A pull request is an occassion where a software developer seeks to add the chang
  Reference: https://docs.github.com/assets/cb-29841/images/help/pull_requests/branch-dropdown.png
 
 3. Above the list of files, click  Pull request.
-![Image](https://docs.github.com/assets/cb-26570/images/help/pull_requests/pull-request-start-review-button.png)
+![Image](https://github.com/GozieUdemba/NewIntrotoGithub/blob/main/annotely_image4.png)
 
 Reference: https://docs.github.com/assets/cb-26570/images/help/pull_requests/pull-request-start-review-button.png
 
