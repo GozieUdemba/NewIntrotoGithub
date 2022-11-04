@@ -109,7 +109,7 @@ Reference: https://docs.github.com/assets/cb-26570/images/help/pull_requests/pul
 Reference: https://docs.github.com/assets/cb-34915/images/help/pull_requests/choose-base-and-compare-branches.png
 
 5. Type a title and description for your pull request.
-![Image](https://docs.github.com/assets/cb-28826/images/help/pull_requests/pullrequest-description.png)
+![Image](https://github.com/GozieUdemba/NewIntrotoGithub/blob/main/annotely_image6.png)
 
 Reference: https://docs.github.com/assets/cb-28826/images/help/pull_requests/pullrequest-description.png
 
