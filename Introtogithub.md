@@ -115,7 +115,7 @@ Reference: https://docs.github.com/assets/cb-28826/images/help/pull_requests/pul
 
 6. To create a pull request that is ready for review, click Create Pull Request. To create a draft pull request, use the drop-down and select Create Draft Pull Request, then click Draft Pull Request
 
-![Image](https://docs.github.com/assets/cb-26223/images/help/pull_requests/pullrequest-send.png)
+![Image](https://github.com/GozieUdemba/NewIntrotoGithub/blob/main/annotely_image7.png)
 
 Reference: https://docs.github.com/assets/cb-26223/images/help/pull_requests/pullrequest-send.png
 
