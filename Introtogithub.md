@@ -148,7 +148,7 @@ Reference: https://docs.github.com/assets/cb-9378/images/help/repository/write-c
 
 5. Below the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is the default branch, you should choose to create a new branch for your commit and then create a pull request.
    
-![Image](https://docs.github.com/assets/cb-32137/images/help/repository/choose-commit-branch.png)
+![Image](https://github.com/GozieUdemba/NewIntrotoGithub/blob/main/annotely_image11.png)
 
 Reference: https://docs.github.com/assets/cb-32137/images/help/repository/choose-commit-branch.png
 
