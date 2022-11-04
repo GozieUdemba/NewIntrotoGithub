@@ -165,20 +165,23 @@ Reference: https://docs.github.com/assets/cb-19765/images/help/repository/commit
   * #### **Using GitHub Desktop**
   
   * With GitHub Desktop, you can interact with GitHub using a Graphic User Interface, instead of the command line or a web browser. You can use GitHub Desktop to complete most Git commands from your desktop, such as pushing to, pulling from, and cloning remote repositories, attributing commits, and creating pull requests, with visual confirmation of changes.
-  
-Reference: https://docs.github.com/en/desktop
-  
+    
    1. Click "commit to master"
    2. Click "Push origin" button twice
    3. Done
    
+   
+   Reference: https://docs.github.com/en/desktop
+   
   * #### **Using Git Command line**
   
-  * GitHub CLI is a command-line tool that brings pull requests, issues, GitHub Actions, and other GitHub features to your terminal, so you can do all your work in one place. Reference: https://docs.github.com/en/get-started/using-github/github-cli
+  * GitHub CLI is a command-line tool that brings pull requests, issues, GitHub Actions, and other GitHub features to your terminal, so you can do all your work in one place. 
   
    1. git add filename
    2. git commit
    3. git push origin master
+
+   Reference: https://docs.github.com/en/get-started/using-github/github-cli
    
 ### **Conclusion**
 
