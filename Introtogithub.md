@@ -142,7 +142,7 @@ Reference: https://docs.github.com/assets/cb-10159/images/help/repository/upload
 
 4. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one author in the commit message.
 
-![Image](https://docs.github.com/assets/cb-9378/images/help/repository/write-commit-message-quick-pull.png)
+![Image](https://github.com/GozieUdemba/NewIntrotoGithub/blob/main/annotely_image10.png)
 
 Reference: https://docs.github.com/assets/cb-9378/images/help/repository/write-commit-message-quick-pull.png
 
