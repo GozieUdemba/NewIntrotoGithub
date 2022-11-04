@@ -162,6 +162,12 @@ Reference: https://docs.github.com/assets/cb-19765/images/help/repository/commit
 ### **GitHub Desktop vs GitHub CLI**
 
 
+| GitHub Desktop | GitHub CLI |
+| --- | --- |
+| GitHub Desktop is simple to use by beginners | GitHub CLI is complex and has a steep learning curve for beginners |
+| GitHub Desktop is entirely cloud-based and cannot be accessed without an internet connection | GitHub CLI can be used without an internet connection after the initial download and installation |
+
+
   * #### **Using GitHub Desktop**
   
   * With GitHub Desktop, you can interact with GitHub using a Graphic User Interface, instead of the command line or a web browser. You can use GitHub Desktop to complete most Git commands from your desktop, such as pushing to, pulling from, and cloning remote repositories, attributing commits, and creating pull requests, with visual confirmation of changes.
@@ -183,6 +189,7 @@ Reference: https://docs.github.com/assets/cb-19765/images/help/repository/commit
 
    Reference: https://docs.github.com/en/get-started/using-github/github-cli
    
+      
 ### **Conclusion**
 
 GitHub is used by almost all large or remote software development groups because of it's awesome capabilites to facilitate collaboration. 
