@@ -136,7 +136,7 @@ Reference: https://docs.github.com/assets/cb-26342/images/help/repository/upload
 
 3. Drag and drop the file or folder you'd like to upload to your repository onto the file tree.
    
-![Image](https://docs.github.com/assets/cb-10159/images/help/repository/upload-files-drag-and-drop.png)
+![Image](https://github.com/GozieUdemba/NewIntrotoGithub/blob/main/annotely_image9.png)
 
 Reference: https://docs.github.com/assets/cb-10159/images/help/repository/upload-files-drag-and-drop.png
 
