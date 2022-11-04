@@ -154,7 +154,7 @@ Reference: https://docs.github.com/assets/cb-32137/images/help/repository/choose
 
 6. Click Commit changes.
 
-![Image](https://docs.github.com/assets/cb-19765/images/help/repository/commit-changes-button.png)
+![Image](https://github.com/GozieUdemba/NewIntrotoGithub/blob/main/annotely_image12.png)
 
 Reference: https://docs.github.com/assets/cb-19765/images/help/repository/commit-changes-button.png
 
