@@ -130,7 +130,7 @@ A commit is a change that is effected to the contents of the file/project.
 1. On GitHub.com, navigate to the main page of the repository.
 2. Above the list of files, using the Add file drop-down, click Upload files.
 
-![Image](https://docs.github.com/assets/cb-26342/images/help/repository/upload-files-button.png)
+![Image](https://github.com/GozieUdemba/NewIntrotoGithub/blob/main/annotely_image8.png)
 
 Reference: https://docs.github.com/assets/cb-26342/images/help/repository/upload-files-button.png
 
