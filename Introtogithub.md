@@ -104,7 +104,7 @@ A pull request is an occassion where a software developer seeks to add the chang
 Reference: https://docs.github.com/assets/cb-26570/images/help/pull_requests/pull-request-start-review-button.png
 
 4. Use the base branch dropdown menu to select the branch you'd like to merge your changes into, then use the compare branch drop-down menu to choose the topic branch you made your changes in.
-![Image](https://docs.github.com/assets/cb-34915/images/help/pull_requests/choose-base-and-compare-branches.png)
+![Image](https://github.com/GozieUdemba/NewIntrotoGithub/blob/main/annotely_image5.png)
 
 Reference: https://docs.github.com/assets/cb-34915/images/help/pull_requests/choose-base-and-compare-branches.png
 
