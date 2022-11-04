@@ -36,6 +36,23 @@ GitHub has superior version control attributes. Software developers can branch a
 
 Git is a version control tool that allows the users to modify their work and to track the modifications. GitHub is a cloud platform that allows hosting and management of Git repositories. Both Git and GitHub provide software programmers with version control capabilities which allow the programmers to work on a project at the same time without botching the entire project. GitHub takes it a step further by also providing storage capacity for the projects being worked on. It is also a platform for developers to showcase their work.
 
+| S.No | Git | GitHub |
+| --- | --- | --- |
+| 1 | Git is a software | GitHub is a service |
+| 2 | Git is a command-line tool | GitHub is a graphical user interface |
+| 3 | Git is installed locally on the system | GitHub is hosted on the web |
+| 4 | Git is maintained by linux | GitHub is maintained by Microsoft |
+| 5 | Git is focused on version control and code sharing | GitHub is focused on centralized source code hosting |
+| 6 | Git is a version control system to manage source code history | Github is a hosting service for Git repositories |
+| 7 | Git was released in 2005 | GitHub was launched in 2008 |
+| 8 | Git has no user management feature | GitHub has a built-in user management feature |
+| 9 | Git is open-source licensed | GitHub includes a free-tier and pay-for-use tier |
+| 10 | Git has minimal external tool configuration | GitHub has an active marketplace for tool integration |
+| 11 | Git provides a Desktop interface named Git GUI | GitHub provides a desktop interface named GitHub Desktop |
+| 12 | Git competes with CVS, Azure Devops Server, Subversion, Mercurial, etc | GitHub competes with GitLab, GitBucket, AWS Code Commit, etc |
+
+Reference: https://www.geeksforgeeks.org/difference-between-git-and-github/
+
 # **GitHub Actions**
 
 ## **Clone**
