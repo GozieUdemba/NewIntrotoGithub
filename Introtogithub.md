@@ -181,7 +181,7 @@ Reference: https://docs.github.com/assets/cb-19765/images/help/repository/commit
    
   * #### **Using Git Command line**
   
-  * GitHub CLI is a command-line tool that brings pull requests, issues, GitHub Actions, and other GitHub features to your terminal, so you can do all your work in one place. 
+  * GitHub CLI is a command-line tool that brings pull requests, issues, GitHub Actions, and other GitHub features to your [terminal](https://www.wikihow.com/Open-Terminal-in-Windows), so you can do all your work in one place. 
   
    1. git add filename
    2. git commit
